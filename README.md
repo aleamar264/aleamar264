@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm currently work on Righthands Robotics like QE Engineer, but looking to work like <br>robotic software. For that, I'm studying all relate to ROS2 and how combine this<br>with new technologies like deep learning, reinforcement learning and so on.<br><br>I'm complete beginner courses of ROS2 like navigation and other basic topics.<br>In a future (not long) I will start with a copy of Boston Dynamics robots (dog),<br>to apply all the knowledge and try to add new features to this.<br>
+Hi, I'm currently work on Righthands Robotics like QE Engineer, but looking to work like <br>robotic software. For that, I'm studying all relate to ROS2 and how combine this<br>with new technologies like deep learning, reinforcement learning and so on.<br><br>I'm complete beginner courses of ROS2 like navigation and other basic topics.<br>In a future not long, I will apply all this knowledge for a practical application in the real world (also by simulations)<br>
 
 
 ## 🌐 Socials:
